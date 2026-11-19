@@ -1,0 +1,101 @@
+﻿Ticket ID;Date ouverture;Date clôture;Client;Agent;Priorité;Statut;Catégorie
+TCK-1001;2026-01-15;;Lunaris;Richard;Haute;Ouvert;Poste
+TCK-1002;2026-01-18;;Kobalt;Inconnu;Critique;Ouvert;Accès
+TCK-1003;2026-02-24;;Axoria;Durand;Haute;Ouvert;Poste
+TCK-1004;2026-03-06;;Axoria;Inconnu;Haute;Ouvert;Messagerie
+TCK-1005;2026-02-23;2026-03-09;Jupiter;Richard;Critique;Fermé;Matériel
+TCK-1006;2026-01-21;2026-01-31;Evolane;Moreau;Haute;Fermé;Matériel
+TCK-1007;2026-02-13;;Belvia;Leroy;Critique;Ouvert;Sécurité
+TCK-1008;2026-02-14;;Evolane;Martin;Basse;Ouvert;Accès
+TCK-1009;2026-01-16;2026-01-18;Inovex;Richard;Urgente;Fermé;Matériel
+TCK-1010;2026-02-16;;Deltis;Durand;Critique;Ouvert;Messagerie
+TCK-1011;2026-01-30;;Belvia;Bernard;Critique;En attente;Logiciel
+TCK-1012;2026-02-05;2026-02-25;Finstar;Moreau;Moyenne;Fermé;Sécurité
+TCK-1013;2026-01-27;;Lunaris;Durand;Urgente;En attente;Messagerie
+TCK-1014;2026-01-22;;Lunaris;Bernard;Haute;Ouvert;Logiciel
+TCK-1015;2026-02-18;;Kobalt;Inconnu;Haute;En attente;Messagerie
+TCK-1016;2026-02-11;;Deltis;Martin;Moyenne;Ouvert;Logiciel
+TCK-1017;2026-02-04;;Deltis;Simon;Haute;Ouvert;Messagerie
+TCK-1018;2026-03-05;;Hexatek;Moreau;Moyenne;Fermé;Poste
+TCK-1019;2026-02-01;;Inovex;Richard;Urgente;Ouvert;Logiciel
+TCK-1020;2026-02-21;;Deltis;Moreau;Urgente;En attente;Logiciel
+TCK-1021;2026-01-12;;Belvia;Moreau;Haute;Ouvert;Matériel
+TCK-1022;2026-02-24;;Belvia;Leroy;Basse;Ouvert;Accès
+TCK-1023;2026-03-01;;Evolane;Inconnu;Critique;Ouvert;Messagerie
+TCK-1024;2026-01-15;;Evolane;Simon;Critique;Ouvert;Sécurité
+TCK-1025;2026-02-25;2026-03-11;Axoria;Richard;Urgente;Fermé;Matériel
+TCK-1026;2026-01-23;;Belvia;Richard;Urgente;Ouvert;Accès
+TCK-1027;2026-01-26;2026-02-06;Covalys;Inconnu;Urgente;Fermé;Réseau
+TCK-1028;2026-02-11;2026-02-11;Belvia;Simon;Moyenne;Fermé;Poste
+TCK-1029;2026-01-08;2026-01-26;Belvia;Durand;Basse;Fermé;Matériel
+TCK-1030;2026-01-09;;Covalys;Moreau;Basse;Ouvert;Accès
+TCK-1031;2026-01-22;;Inovex;Leroy;Haute;En attente;Accès
+TCK-1032;2026-01-26;;Galia;Simon;Basse;En attente;Accès
+TCK-1033;2026-02-27;;Deltis;Bernard;Critique;Ouvert;Sécurité
+TCK-1034;2026-01-03;;Inovex;Bernard;Urgente;Ouvert;Poste
+TCK-1035;2026-01-01;;Lunaris;Martin;Haute;Ouvert;Réseau
+TCK-1036;2026-01-05;;Belvia;Inconnu;Haute;En attente;Sécurité
+TCK-1037;2026-03-04;2026-03-21;Covalys;Garcia;Haute;Fermé;Matériel
+TCK-1038;2026-03-02;2026-03-08;Belvia;Durand;Basse;Fermé;Sécurité
+TCK-1039;2026-02-24;2026-03-10;Lunaris;Martin;Critique;Fermé;Réseau
+TCK-1040;2026-02-21;;Belvia;Bernard;Haute;En attente;Poste
+TCK-1041;2026-02-27;2026-03-12;Covalys;Richard;Basse;Fermé;Poste
+TCK-1042;2026-01-10;2026-01-27;Belvia;Martin;Urgente;Fermé;Matériel
+TCK-1043;2026-01-02;;Deltis;Moreau;Basse;Ouvert;Logiciel
+TCK-1044;2026-03-03;2026-03-01;Axoria;Moreau;Basse;Fermé;Réseau
+TCK-1045;2026-02-19;;Hexatek;Richard;Basse;En attente;Messagerie
+TCK-1046;2026-03-04;2026-03-10;Evolane;Bernard;Critique;Fermé;Accès
+TCK-1047;2026-01-08;;Axoria;Martin;Urgente;En attente;Logiciel
+TCK-1048;2026-03-06;;Covalys;Martin;Urgente;Ouvert;Réseau
+TCK-1049;2026-01-24;;Jupiter;Durand;Haute;Ouvert;Logiciel
+TCK-1050;2026-01-16;;Deltis;Martin;Urgente;Ouvert;Réseau
+TCK-1051;2026-02-23;;Jupiter;Inconnu;Moyenne;Ouvert;Sécurité
+TCK-1052;2026-01-27;;Deltis;Richard;Basse;En attente;Poste
+TCK-1053;2026-02-08;2026-02-18;Belvia;Martin;Basse;Fermé;Accès
+TCK-1054;2026-01-13;;Inovex;Bernard;Urgente;Ouvert;Sécurité
+TCK-1055;2026-01-17;;Belvia;Bernard;Moyenne;En attente;Sécurité
+TCK-1056;2026-01-21;2026-02-07;Lunaris;Richard;Urgente;Fermé;Matériel
+TCK-1057;2026-01-02;;Evolane;Durand;Haute;Ouvert;Sécurité
+TCK-1058;2026-01-15;;Lunaris;Inconnu;Haute;Ouvert;Sécurité
+TCK-1059;2026-02-06;;Deltis;Simon;Haute;Ouvert;Messagerie
+TCK-1060;2026-02-03;;Hexatek;Richard;Critique;Ouvert;Réseau
+TCK-1061;2026-02-24;;Axoria;Martin;Moyenne;En attente;Matériel
+TCK-1062;2026-01-17;;Covalys;Garcia;Urgente;En attente;Messagerie
+TCK-1063;2026-02-24;;Axoria;Durand;Critique;Ouvert;Messagerie
+TCK-1064;2026-01-20;;Axoria;Simon;Urgente;Ouvert;Accès
+TCK-1065;2026-01-19;2026-01-23;Axoria;Richard;Moyenne;Fermé;Matériel
+TCK-1066;2026-01-06;;Deltis;Bernard;Critique;En attente;Sécurité
+TCK-1067;2026-02-22;;Lunaris;Moreau;Haute;Fermé;Matériel
+TCK-1068;2026-01-21;2026-02-03;Axoria;Moreau;Moyenne;Fermé;Matériel
+TCK-1069;2026-02-22;2026-03-02;Covalys;Durand;Basse;Fermé;Matériel
+TCK-1070;2026-01-05;2026-01-12;Deltis;Garcia;Moyenne;Fermé;Sécurité
+TCK-1071;2026-01-30;2026-01-30;Kobalt;Bernard;Basse;Fermé;Sécurité
+TCK-1072;2026-02-05;;Evolane;Simon;Urgente;Ouvert;Logiciel
+TCK-1073;2026-02-12;;Belvia;Richard;Haute;Ouvert;Accès
+TCK-1074;2026-02-03;;Belvia;Leroy;Moyenne;Ouvert;Messagerie
+TCK-1075;2026-02-10;2026-03-01;Inovex;Durand;Basse;Fermé;Accès
+TCK-1076;2026-01-25;;Axoria;Leroy;Critique;En attente;Accès
+TCK-1077;2026-01-26;;Galia;Durand;Moyenne;En attente;Accès
+TCK-1078;2026-02-10;;Lunaris;Richard;Urgente;Ouvert;Sécurité
+TCK-1079;2026-02-22;;Galia;Richard;Urgente;En attente;Poste
+TCK-1080;2026-01-25;2026-02-15;Galia;Moreau;Urgente;Fermé;Accès
+TCK-1081;2026-02-08;2026-02-25;Axoria;Richard;Moyenne;Fermé;Poste
+TCK-1082;2026-02-25;;Jupiter;Simon;Basse;Ouvert;Logiciel
+TCK-1083;2026-02-26;2026-03-14;Hexatek;Moreau;Critique;Fermé;Sécurité
+TCK-1084;2026-03-07;;Finstar;Durand;Haute;Ouvert;Messagerie
+TCK-1085;2026-02-09;2026-02-15;Covalys;Martin;Critique;Fermé;Poste
+TCK-1086;2026-03-02;;Belvia;Garcia;Basse;Ouvert;Messagerie
+TCK-1087;2026-01-25;2026-02-09;Galia;Bernard;Haute;Fermé;Messagerie
+TCK-1088;2026-01-01;;Galia;Bernard;Haute;Ouvert;Matériel
+TCK-1089;2026-03-01;;Inovex;Bernard;Critique;Ouvert;Logiciel
+TCK-1090;2026-01-18;2026-02-08;Inovex;Inconnu;Urgente;Fermé;Sécurité
+TCK-1091;2026-02-26;;Lunaris;Inconnu;Basse;Ouvert;Matériel
+TCK-1092;2026-02-27;2026-03-14;Hexatek;Richard;Haute;Fermé;Matériel
+TCK-1093;2026-02-05;;Hexatek;Bernard;Moyenne;Ouvert;Logiciel
+TCK-1094;2026-01-10;;Deltis;Richard;Moyenne;En attente;Sécurité
+TCK-1095;2026-01-11;2026-01-15;Deltis;Leroy;Haute;Fermé;Messagerie
+TCK-1096;2026-01-28;;Galia;Leroy;Moyenne;Ouvert;Accès
+TCK-1097;2026-03-01;2026-03-02;Deltis;Leroy;Basse;Fermé;Matériel
+TCK-1098;2026-01-03;;Galia;Garcia;Critique;Ouvert;Sécurité
+TCK-1099;2026-02-08;2026-02-21;Inovex;Inconnu;Urgente;Fermé;Poste
+TCK-1100;2026-03-04;2026-03-12;Galia;Garcia;Critique;Fermé;Logiciel
